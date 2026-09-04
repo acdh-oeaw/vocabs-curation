@@ -347,7 +347,7 @@
         <skos:prefLabel xml:lang="de">maschinenschriftliche Wiedergabe</skos:prefLabel>
         <skos:editorialNote xml:lang="de">aus der note zu Diplomatische
             Transkription</skos:editorialNote>
-        <skos:related rdf:reesource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K041"/>
+        <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K041"/>
         <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
     </skos:Concept>
 
@@ -357,7 +357,7 @@
         <skos:prefLabel xml:lang="de">gedruckte Wiedergabe</skos:prefLabel>
         <skos:editorialNote xml:lang="de">aus der note zu Diplomatische
             Transkription</skos:editorialNote>
-        <skos:related rdf:reesource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K040"/>
+        <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K040"/>
         <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
     </skos:Concept>
 
@@ -2199,8 +2199,8 @@
 <!-- Textabfassungsphase -->
     <skos:Concept rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K298">
         <skos:prefLabel xml:lang="de">Textabfassungsphase</skos:prefLabel>
-        <altLabel xml:lang="de">Textualisierungsphase</altLabel>
-        <altLabel xml:lang="de">Phase der eigentlichen Textabfassung</altLabel>
+        <skos:altLabel xml:lang="de">Textualisierungsphase</skos:altLabel>
+        <skos:altLabel xml:lang="de">Phase der eigentlichen Textabfassung</skos:altLabel>
         <skos:note xml:lang="de">mit Brouillons und Arbeitshandschriften belegte Phase der
             Textkonstitution; betrifft das Kernstück der Genese.</skos:note>
         <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
