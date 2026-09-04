@@ -4,7 +4,7 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
     <skos:ConceptScheme rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/">
         <dct:title xml:lang="de">Textgenetisches Glossar</dct:title>
-        <rdfs:label>Textgenetisches Glossar</rdfs:label>
+        <rdfs:label xml:lang="de">Textgenetisches Glossar</rdfs:label>
         <dct:contributor>Ingo Börner</dct:contributor>
         <dct:contributor>Isabella Schwentner</dct:contributor>
         <dct:publisher>ACDH – Austrian Centre for Digital Humanities</dct:publisher>
@@ -336,7 +336,7 @@
     <skos:Concept rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K042">
         <skos:prefLabel xml:lang="de">Topographie</skos:prefLabel>
         <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Diplomatische Transkription" u. "Linearisierte Transkription"</skos:editorialNote>
-        <skos:scopeNote>Topographie des beschriebenen Raumes, Topographie der Seite</skos:scopeNote>
+        <skos:scopeNote xml:lang="de">Topographie des beschriebenen Raumes, Topographie der Seite</skos:scopeNote>
         <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
     </skos:Concept>
 
@@ -974,7 +974,7 @@
 
     <skos:Concept rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K108">
         <skos:prefLabel xml:lang="de">Kodex</skos:prefLabel>
-        <skos:altLabel>codex</skos:altLabel>
+        <skos:altLabel xml:lang="de">codex</skos:altLabel>
         <skos:note xml:lang="de">handgeschriebenes Buch in seiner frühesten Form; seine Erfindung in
             den ersten Jahrhunderten n. Chr. kennzeichnet den allmählichen Übergang von der
             Buchrolle (oder Rolle) zur Form des gebundenen Buches.</skos:note>
@@ -1023,7 +1023,7 @@
 
     <skos:Concept rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K116">
         <skos:prefLabel xml:lang="de">Schreibfehler</skos:prefLabel>
-        <skos:altLabel>Lapsus</skos:altLabel>
+        <skos:altLabel xml:lang="de">Lapsus</skos:altLabel>
         <skos:editorialNote xml:lang="de">aus der note zu Korrektur</skos:editorialNote>
         <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
     </skos:Concept>
@@ -2267,7 +2267,7 @@
             'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
             Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
             299.</dct:source>
-        <skos:editorialNote>enthalten in der Erläuterung zu "Produktorientiertes Schreiben"</skos:editorialNote>
+        <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Produktorientiertes Schreiben"</skos:editorialNote>
         <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
     </skos:Concept>
     
@@ -2438,7 +2438,7 @@
             'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
             Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
             299.</dct:source>
-        <skos:editorialNote>Unterbegriff zur Um-Schreibung? Enthalten in der Erläuterung zu "Überarbeitung", "Lesevariante", "Freie Variante" u. "Um-Schreibung"</skos:editorialNote>
+        <skos:editorialNote xml:lang="de">Unterbegriff zur Um-Schreibung? Enthalten in der Erläuterung zu "Überarbeitung", "Lesevariante", "Freie Variante" u. "Um-Schreibung"</skos:editorialNote>
         <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340"/> <!-- Um-Schreibung -->
         <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
     </skos:Concept>
@@ -2701,15 +2701,15 @@
     <!-- Grundform der Überarbeitung -->
     <skos:Concept rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379">
         <skos:prefLabel xml:lang="de">Grundform der Umarbeitung</skos:prefLabel>
-        <skos:note>Als Grundformen der Umarbeitung nennt Gréssillon Tilgen, Erweitern, Ersetzen und Umstellen.</skos:note>
+        <skos:note xml:lang="de">Als Grundformen der Umarbeitung nennt Gréssillon Tilgen, Erweitern, Ersetzen und Umstellen.</skos:note>
         <skos:editorialNote xml:lang="de">nicht im Glossar enthalten</skos:editorialNote>
         <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K320"/><!-- Tilgung (K320) --> 
         <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K071"/> <!-- Ersetzung (K071)  -->
         <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K074"/> <!-- Erweiterung (K074) -->
         <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K350"/> <!--  Umstellung (K350) -->
-        <skos:source>Almuth Grésillon: Literarische Handschriften. Einführung in die
+        <dct:source>Almuth Grésillon: Literarische Handschriften. Einführung in die
             'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
-            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S. 250.</skos:source>
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S. 250.</dct:source>
         <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
     </skos:Concept>
 
