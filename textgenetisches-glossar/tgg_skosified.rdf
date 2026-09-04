@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K046">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Druckvorlage</skos:prefLabel>
+    <skos:note xml:lang="de">die Fassung, die der Autor als Vorlage für den Druck bestimmt; je
+            nachdem kann es sich um eigenhändige Reinschriften, um Abschriften von Schreiberhand, um
+            maschinenschriftliche Abschriften oder Computerausdrucke handeln.</skos:note>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibprozeß</skos:editorialNote>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K165">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Paradigma</skos:prefLabel>
+    <skos:note xml:lang="de">Reihe von sprachlichen Einheiten, die zu derselben syntaktischen
+            Kategorie gehören und bei Schreibprozessen untereinander durch semantische Beziehungen
+            verbunden sind; ein Substitutionsparadigma stellt eine Reihe von Umformulierungen einer
+            Schreibeinheit dar; ein paradigmatisches Ensemble erscheint vertikal im horizontalen
+            Verlauf der syntagmatischen Linearität eines "avant-texte".</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:title xml:lang="de">Textgenetisches Glossar</dct:title>
+    <rdfs:label xml:lang="de">Textgenetisches Glossar</rdfs:label>
+    <dct:contributor>Ingo Börner</dct:contributor>
+    <dct:contributor>Isabella Schwentner</dct:contributor>
+    <dct:publisher>ACDH – Austrian Centre for Digital Humanities</dct:publisher>
+    <dct:language>German</dct:language>
+    <dct:subject xml:lang="de">Editionswissenschaft</dct:subject>
+    <dct:subject xml:lang="de">critique génétique</dct:subject>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293–300.</dct:source>
+    <dct:hasVersion>1.0</dct:hasVersion>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K003"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K004"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K005"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K006"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K007"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K008"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K010"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K011"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K012"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K013"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K014"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K015"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K017"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K022"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K025"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K030"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K031"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K032"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K035"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K036"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K038"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K040"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K041"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K042"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K043"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K045"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K046"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K048"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K049"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K050"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K051"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K052"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K054"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K057"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K063"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K064"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K065"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K067"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K068"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K070"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K072"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K075"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K076"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K077"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K078"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K080"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K081"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K082"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K085"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K088"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K090"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K091"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K094"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K095"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K096"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K097"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K098"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K099"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K100"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K102"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K104"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K105"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K108"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K109"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K111"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K115"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K116"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K117"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K118"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K119"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K120"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K121"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K122"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K123"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K124"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K125"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K126"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K130"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K136"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K137"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K140"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K141"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K142"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K143"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K144"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K145"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K146"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K147"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K148"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K149"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K152"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K153"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K154"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K155"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K158"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K159"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K160"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K161"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K163"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K165"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K168"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K169"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K170"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K171"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K172"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K173"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K174"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K176"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K185"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K188"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K191"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K192"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K193"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K194"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K196"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K198"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K199"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K201"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K202"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K204"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K206"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K207"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K208"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K212"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K214"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K217"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K218"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K219"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K223"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K225"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K228"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K230"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K233"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K234"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K235"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K244"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K245"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K246"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K249"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K250"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K257"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K260"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K266"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K267"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K268"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K270"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K272"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K274"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K278"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K280"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K281"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K282"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K286"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K293"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K294"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K295"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K296"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K297"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K298"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K302"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K304"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K305"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K307"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K308"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K314"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K316"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K318"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K323"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K325"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K329"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K330"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K331"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K332"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K333"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K334"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K335"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K336"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K337"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K342"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K347"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K354"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K356"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K357"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K358"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K359"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K361"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K362"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K366"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K369"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K370"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K377"/>
+    <skos:hasTopConcept rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K369">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Textzeuge</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Zeuge</skos:altLabel>
+    <skos:altLabel xml:lang="de">Zeuge zu Genese eines Textes</skos:altLabel>
+    <skos:note xml:lang="de">schriftliches Dokument, das über die Textgenese Auskunft
+            gibt.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            300.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Avant-texte" u. "dossier génétique"</skos:editorialNote>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K283"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K284"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K126">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Lesenotizen</skos:prefLabel>
+    <skos:note xml:lang="de">Exzerpte aus gelesenem Quellenmaterial; häufig auf Karteikarten
+            oder in Notizheften überliefert.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:editorialNote xml:lang="de">enthlaten in der Erläuterung zu "Produktorientiertes Schreiben" u. "Schreibvorbereitungsphase"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K095">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Durchstreichungsstrich</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Graphischer Signifikant" u. "Tilgung"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K175">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Produktorientiertes Schreiben</skos:prefLabel>
+    <skos:note xml:lang="de">Schreibtyp, der einem vorher aufgestellten Plan konsequent folgt
+            und dessen Ausführung oft mehrere textgenetische Phasen durchläuft (Lesenotizen, Pläne,
+            Listen, Skizzen, Brouillons); Beispiel: Zola.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K176"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K010">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">recto</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Blattvorderseite</skos:altLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Blatt</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K096">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Farbstrich</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Graphischer
+            Signifikant</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K260">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">sprachliche Einheit</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Segment", "Paradigma" u. "Variante"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K237">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schilfrohr</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K250">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Material</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schriftträger</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K109">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Kollationieren</skos:prefLabel>
+    <skos:note xml:lang="de">zwei textgenetische Stadien oder zwei gedruckte Fassungen eines
+            Textes miteinander vergleichen und deren Unterschiede festhalten.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Grundform der Umarbeitung</skos:prefLabel>
+    <skos:note xml:lang="de">Als Grundformen der Umarbeitung nennt Gréssillon Tilgen, Erweitern, Ersetzen und Umstellen.</skos:note>
+    <skos:editorialNote xml:lang="de">nicht im Glossar enthalten</skos:editorialNote>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K320"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K071"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K074"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K350"/>
+    <dct:source>Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S. 250.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K004">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Arbeitshandschrift</skos:prefLabel>
+    <skos:note xml:lang="de">eine Handschrift, die unverkennbar zur Phase der Textausarbeitung,
+            zur Niederschrift des Textes gehört;</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293.</dct:source>
+    <skos:editorialNote xml:lang="de">Verweis zu Brouillon; enthalten in Erklärung von Textabfassungs- oder Textualisierungsphase</skos:editorialNote>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K022"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K071">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Ersetzung</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Substitution</skos:altLabel>
+    <skos:note xml:lang="de">Schreibvorgang, durch den ein Segment durch ein anderes ersetzt
+            wird.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294 u. 298.</dct:source>
+    <skos:editorialNote xml:lang="de">Synonym: Substitution; enthalten in der Erläuterung zu "Streichung", "Substitution", "Zwischenzeiliger Raum"</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K094">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Verweiszeichen</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Graphischer
+            Signifikant</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K252">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Stein</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schriftträger</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K249"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K212">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibspur</skos:prefLabel>
+    <skos:note xml:lang="de">jede Art schriftlicher Zeichen, die auf dem Schriftträger Spuren
+            hinterlassen.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Schriftträger</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K052">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Duktus</skos:prefLabel>
+    <skos:note xml:lang="de">persönliche Note von Schriftzügen; am Duktus erkennt man eine
+            Handschrift als von einem bestimmten Autor stammend; je nach physischer und psychischer
+            Verfassung des Schreibers kann der Duktus gewissen Veränderungen
+            unterliegen.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K077">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Original</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Faksimile" u. "Linearisierte Transkription".</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K280">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">zeitliche Abfolge</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Stemma</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K183">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Prozeßorientiertes Schreiben</skos:prefLabel>
+    <skos:note xml:lang="de">Schreibtyp ohne Vorbereitungsphase und ohne Plan; der Text entsteht
+            beim Schreiben selbst; Beispiel: Proust.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K176"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K137">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Linearisierte Transkription</skos:prefLabel>
+    <skos:note xml:lang="de">maschinenschriftliche Wiedergabe einer Handschrift, die alle
+            Elemente des Originals überträgt, jedoch ohne sich an die Topographie der Seite zu
+            halten. An deren Stelle tritt häufig eine Chronologisierung der Schreibelemente. Damit
+            ist der erste Schritt in Richtung Interpretation getan, denn die Vertikalität der
+            Umformungsparadigmen wird auf horizontal-syntagmatische Sequenzen übertragen, und dies
+            ist nur möglich, idem räumliche Indizien in zeitliche Kriterien, d.h. in Aussagen über
+            die Genese des Werkes überführt werden.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Werkzeug des handschriftlichen Schreibens</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K233"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K237"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K238"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K239"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K240"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K241"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K242"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K243"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K111">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Konjektur</skos:prefLabel>
+    <skos:note xml:lang="de">nicht eindeutig abgesicherte Lesart einer Handschrift.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K130">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Platz</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Lesevariante" und "Umstellung"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Format</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Blattformat</skos:altLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Bogen</skos:editorialNote>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K018"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K019"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K020"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K021"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K136">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Lesart</skos:prefLabel>
+    <skos:altLabel xml:lang="fr">leçon</skos:altLabel>
+    <skos:note xml:lang="de">Ergebnis des Entzifferns ("es gibt mehrere Lesarten zu dieser
+            Stelle").</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Konjektur</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K239">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Griffel</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K074">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Erweiterung</skos:prefLabel>
+    <skos:altLabel xml:lang="fr">ajout</skos:altLabel>
+    <skos:note xml:lang="de">semantische und syntaktische Bereicherung durch Einfügen
+            ergänzender Wörter, Syntagmen oder Sätze; Beispiel: "seine Hand" wird erweitert zu
+            "seine weiße Hand".</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Zwischenzeiliger Raum</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K127">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Lesevariante</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Spätkorrektur</skos:altLabel>
+    <skos:note xml:lang="de">Umformulierung, die nach einer Unterbrechung des Schreibvorgangs,
+            im allgemeinen nach kritischem Durchlesen, erfolgt; ihr Platz befindet sich im
+            zwischenzeiligen Raum oder am Rand. Eingriff, durch den z.B. ein Wort anläßlich eines kritischen
+            Überlesens gestrichen und ersetzt wird; im Unterschied zu der Sofortkorrektur läßt sich
+            im Fall der Spätvariante nicht klären, zu welchem Zeitpunkt sie erfolgt; "spät" heißt
+            hier nur "nicht sofort"  Synonym: Spätkorrektur; Gegensatz: Schreibvariante,
+            Sofortkorrektur.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296 u. 298.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Spätkorrektur", "Schreibspur" u. "Lesevariante"</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K080">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Text</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Fassung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K006">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Autograph</skos:prefLabel>
+    <skos:note xml:lang="de">vom Autor eigenhändig geschriebenes Schriftstück; im Gegensatz zu
+            Dokumenten, die von Sekretären, Schreibern oder Kopisten geschrieben sind.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293.</dct:source>
+    <skos:editorialNote xml:lang="de">Gegenteil: Allograph</skos:editorialNote>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K003"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K247">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Werkzeug des nicht handschriftlichen
+            Schreibens</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K233"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K296">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibprojekt</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Szenario</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K196">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreiber</skos:prefLabel>
+    <skos:note xml:lang="de">derjenige, dessen Hand den Text auf einem Schriftträger fixiert; im
+            weiteren Sinne auch derjenige, der auf der Schreibmaschine oder am Computer Texte
+            niederschreibt; Schreiber ist nicht systematisch synonym mit Autor (siehe
+            Schreiberhand).</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Duktus</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K081">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Foliierung</skos:prefLabel>
+    <skos:note xml:lang="de">Vorgang des Foliierens, d.h. jedes Blatt wird oben rechts auf der
+            Vorderseite mit einer Ziffer versehen, durch die es sich im archivalischen Sinn
+            identifizieren läßt.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K244">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibmaschine</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K261">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Wort</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Segment" u. "Um-Schreibung"</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K099">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Heft</skos:prefLabel>
+    <skos:note xml:lang="de">zusammengeheftete Blätter; dient häufig zur Textausarbeitung
+            (Beispiel: die Hefte von Proust), aber auch zum Festhalten von Gedankenfragmenten
+            (Beispiel: Hefte von Valéry); unterscheidet sich von losen Blättern sowie vom
+            Notizbuch</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K032">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schriftstück</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Daktylogramm</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K147">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Materielle Beschreibung</skos:prefLabel>
+    <skos:note xml:lang="de">Vorgang, bei dem die materiellen Merkmale einer Handschrift (oder
+            des Konvoluts von Handschriften) erfaßt werden: Autograph oder Allograph, Kennzeichen
+            der Schrift, Farbe und Format des Schriftträgers, Typ des Papiers und der Wasserzeichen,
+            ein- oder beidseitig beschrieben, Anzahl der Blätter, Beschaffenheit und Farbe des
+            Schreibwerkzeugs (Bleistift, Tinte).</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K067">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Zustand der Konservierung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Entzifferung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K161">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Papier</skos:prefLabel>
+    <skos:note xml:lang="de">auf der Grundlage verschiedener Stoffe hergestellter Schriftträger;
+            an die Stelle des handgeschöpften Papiers ("Büttenpapier") ist in der zweiten Hälfte des
+            19. Jahrhunderts das maschinell hergestellte Papier getreten.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Schriftträger" u. "Wasserzeichen"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K065">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Befund</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Entzifferung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K208">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibraum</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Raum</skos:altLabel>
+    <skos:note xml:lang="de">Raum der Seite, auf der sich unbeschriebene Stellen und
+            beschriebene abwechseln; das Verhältnis zwischen beschriebenem und nicht beschriebenem
+            Raum ist im Fall von Buchseiten konstant, im Fall von Handschriftenseiten
+            variabel.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Zwischenzeiliger Raum" und "Interlinearer Raum"</skos:editorialNote>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K106"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K211"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K189"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K219">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Textstelle</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Schreibspur" u. "Umstellung". Zusammenführen mit "Stelle"?</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K021">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Oktav</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Oktav-Format</skos:altLabel>
+    <skos:note xml:lang="de">(dreimalige Faltung)</skos:note>
+    <skos:editorialNote xml:lang="de">aus der note zu Bogen</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K078">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Fassung</skos:prefLabel>
+    <skos:note xml:lang="de">relativ fortgeschrittenes Stadium einer Textgenese; es kann mehrere
+            handschriftliche und / oder mehrere gedruckte Fassungen ein und desselben Textes
+            geben.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Variante" u. "Druckvorlage"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K201">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Unterbrechung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibphase</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K117">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Korrekturfahne</skos:prefLabel>
+    <skos:note xml:lang="de">erste, noch ohne Seitenumbruch gedruckte Form eines Textes, die dem
+            Autor normalerweise zum "Korrekturlesen" vorgelegt wird.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Textgenetische Phase</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K243">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Füllfederhalter</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K305">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Notiz</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Textgenese" u. "Textgenetische Phase"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K072">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibvorgang</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Schreibphase", "Um-Schreibung", "Lesevariante"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K102">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Hypertext</skos:prefLabel>
+    <skos:note xml:lang="de">ein Netz miteinander verbundener schriftlicher Dokumente;
+            verschiedene textgenetische Dokumente können hypertextartig miteinander vernetzt
+            werden.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K256">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Holztafel</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schriftträger</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K249"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K332">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Einheit</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Überschreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K003">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Allograph</skos:prefLabel>
+    <skos:note xml:lang="de">von anderer Hand als der des Autors geschrieben.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293.</dct:source>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K006"/>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K049"/>
+    <skos:editorialNote xml:lang="de">Gegenteil: Autograph</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K262">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Wortgruppe</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Segment</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K100">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">loses Blatt</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Heft</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K233">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibwerkzeug</skos:prefLabel>
+    <skos:note xml:lang="de">jedes Arbeitsgerät, das zum Festschreiben graphischer Zeichen auf
+            einen bestimmten Schriftträger dient: Schilfrohr, Stichel, Griffel, Gänsekiel,
+            Stahlfeder, Bleistift, Füllfederhalter; Schreibmaschine und Computer sind die
+            "Werkzeuge" des nicht handschriftlichen Schreibens.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K247"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248"/>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Moderne Kodikologie" u. "Materielle Beschreibung"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K335">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">ursprüngliche Einheit</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Überschreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K334">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Darunterschreiben</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Überschreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K308">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Textgenetische Phase</skos:prefLabel>
+    <skos:note xml:lang="de">bezeichnet jede einzelne Phase, die eine Textgenese durchläuft:
+            Notizen, Entwürfe, Skizzen, Pläne, Zusammenfassungen, Brouillons, Ausarbeitungen,
+            Reinschriften, Abschriften, Korrekturfahnen.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Produktorientiertes Schreiben"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K031">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Typoskript</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Daktylogramm</skos:altLabel>
+    <skos:note xml:lang="de">maschinengeschriebenes Schriftstück; innerhalb einer Textgenese im
+            allgemeinen gegen Ende des Schreibprozesses angesiedelt; kann vom Autor oder einer
+            anderen Person angefertigt sein.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K050"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K307">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">edierter Text</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Textgenese</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K176">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibtyp</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Produktorientiertes Schreiben" u. "Prozeßorientiertes Schreiben"</skos:editorialNote>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K175"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K183"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Um-Schreibung</skos:prefLabel>
+    <skos:altLabel xml:lang="fr">réécriture</skos:altLabel>
+    <skos:note xml:lang="de">jeder Schreibvorgang, der auf bereits Geschriebenes reflexiv und
+            verändernd zurückkommt, gleich ob es sich um Wörter, Sätze, Abschnitte, Kapitel oder
+            abgeschlossene Texte handelt; --&gt; Überarbeitung, Umformulierung</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Umformulierung", "Überarbeitung", "Schreibspur", "Korrektur" u. "Brouillon"</skos:editorialNote>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K338"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K113"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K215"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K127"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K007">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Betagraphie</skos:prefLabel>
+    <skos:note xml:lang="de">Reproduktionstechnik, bei der nur Siebmerkmale und Wasserzeichen
+            des Papiers, nicht aber die Schriftzüge selbst reproduziert werden.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K082">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Freie Variante</skos:prefLabel>
+    <skos:note xml:lang="de">Umformulierung, die nicht von grammatikalischen (morphologischen,
+            syntaktischen oder orthographischen) Regeln abhängt.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K193">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">metaschriftliche Notiz</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Rand</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K336">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">neue Einheit</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Überschreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K304">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Textgenese</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Genese</skos:altLabel>
+    <skos:note xml:lang="de">Entstehungsprozeß eines (schriftlichen) Werkes, angefangen von
+            ersten schriftlichen Notizen bis hin zum edierten Text.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Stemma", "Daktylogramm", "Zeuge" u. "Textgenetische Phase"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K148">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">materielles Merkmal</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Materielle
+            Beschreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K272">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Gesamtstruktur</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Skizze</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K122">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Entstehungsgeschichte</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Kritischer Apparat</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K145">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Indiz</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Linearisierte
+            Transkription</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K187">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Rand</skos:prefLabel>
+    <skos:note xml:lang="de">bei Büchern: unbeschriebener graphischer Raum, der den
+            beschriebenen Raum der Seite umgibt und damit den sogenannten Satzspiegel festlegt; bei
+            genetischen Dokumenten kann der Rand beschrieben werden: er ist einerseits eine Art
+            Gedankenspeicher, bietet aber auch Raum für metaschriftliche Notizen, Varianten
+            usw.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Lesevariante</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K211"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K143">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Umformulierungsparadigma</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Linearisierte
+            Transkription</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K294">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Skript</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Szenario</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K330">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Überschreibung</skos:prefLabel>
+    <skos:note xml:lang="de">Typ der Ersetzung, wobei die ursprüngliche Einheit nicht nurch
+            Darüber- oder Darunterschreiben ersetzt wird, sondern indem man die neue Einheit direkt
+            auf die ursprüngliche schreibt; vor allem üblich bei kurzen Wörtern oder
+            grammatikalischen Korrekturen.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K329">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Textentstehung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Überarbeitung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K091">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Interpunktionszeichen</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Graphischer
+            Signifikant</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K022">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Brouillon</skos:prefLabel>
+    <skos:note xml:lang="de">mit Streichungen, Zusätzen und Um-Schreibungen übersätes
+            Blatt</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293.</dct:source>
+    <skos:editorialNote xml:lang="de">Verweis zu Arbeitshandschrift; Begriff verwendet in der Erläuterung zu "Produktorientiertes Schreiben", "Textabfassungs- oder
+            Textualisierungsphase" und "Textgenetische Phase"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K004"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K245">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Computer</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K278">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Stemma</skos:prefLabel>
+    <skos:note xml:lang="de">Stammbaum, dessen unterschiedliche Verzweigungen die zeitliche
+            Abfolge, Hierarchie und gegenseitige Abhängigkeit der handschriftlichen und gedruckten
+            Zeugen der Textgenese darstellen.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K055">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Einfügungszeichen</skos:prefLabel>
+    <skos:note xml:lang="de">metaschriftliches Zeichen, das die Stelle kennzeichnet, an der
+            nachträglich eine sprachliche Einheit eingefügt wird.</skos:note>
+    <skos:editorialNote xml:lang="de">aus der note zu Graphischer
+            Signifikant</skos:editorialNote>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K057"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K331">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Typ der Ersetzung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Überschreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K070">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Werk</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Entzifferung", "Genese" u. "Textgenese"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K018">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Plano</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Plano-Format</skos:altLabel>
+    <skos:note xml:lang="de">(ohne Faltung)</skos:note>
+    <skos:editorialNote xml:lang="de">aus der note zu Bogen</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K202">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibprozeß</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Schreibprozess</skos:altLabel>
+    <skos:note xml:lang="de">bezeichnet den gesamten Schreibakt, von der Aufstellung einer
+            Wortliste bis zur Druckvorlage, Fahnenkorrektur und gegebenfalls Vorbereitung neuer
+            Ausgaben.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Daktylogramm", "Genetische Ausgabe", "Wasserzeichen" u. "Paradigma"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K113">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Korrektur</skos:prefLabel>
+    <skos:note xml:lang="de">Um-Schreibung, die sprachliche Fehler (Grammatik, Syntax,
+            Orthographie) und Schreibfehler (Lapsus) beseitigt oder das Ergebnis einer freien
+            Variante an die anderen syntaktischen Elemente weitergibt; --&gt; gebundene
+            Variante.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340"/>
+    <skos:editorialNote xml:lang="de">aus der note zu Freie Variante</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K119">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Korrekturlesen</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Korrekturfahne</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K058">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Entwurf</skos:prefLabel>
+    <skos:altLabel xml:lang="fr">ébauche</skos:altLabel>
+    <skos:note xml:lang="de">frühe, grobe, aber schon strukturierte Form des entstehenden
+            Werkes; verwandte textgenetische Stadien: Plan, Skizze, Szenario.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:editorialNote xml:lang="de">Enthalten in der Erläuterung zu "Schreibvorbereitungsphase", "Textgenetische Phase" u. "Skizze".</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Segment</skos:prefLabel>
+    <skos:note xml:lang="de">sprachliche Einheit unterschiedlicher Länge: Wort, Wortgruppe,
+            Satz, Abschnitt, Kapitel.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K264"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K261"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K262"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K263"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K265"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Ersetzung", "Substitution" u. "Streichung"</skos:editorialNote>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K042">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Topographie</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Diplomatische Transkription" u. "Linearisierte Transkription"</skos:editorialNote>
+    <skos:scopeNote xml:lang="de">Topographie des beschriebenen Raumes, Topographie der Seite</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K045">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">interlineare Einfügung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Diplomatische
+            Transkription</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K043">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Randnotiz</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Diplomatische
+            Transkription</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K234">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Arbeitsgerät</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K064">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Textgenetiker</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Entzifferung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K068">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Erstausgabe</skos:prefLabel>
+    <skos:note xml:lang="de">erste gedruckte Fassung eines Werkes.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K005"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K169">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">semantische Beziehung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Paradigma</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K141">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Interpretation</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Linearisierte
+            Transkription</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K338">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Umformulierung</skos:prefLabel>
+    <skos:note xml:lang="de">Um-Schreibung</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:editorialNote xml:lang="de">Unterbegriff zur Um-Schreibung? Enthalten in der Erläuterung zu "Überarbeitung", "Lesevariante", "Freie Variante" u. "Um-Schreibung"</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K090">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Graphischer Signifikant</skos:prefLabel>
+    <skos:note xml:lang="de">Basiseinheit des Schreibens; die Gesamtheit aller graphischen
+            Signifikaten umfaßt einerseits die Buchstaben des Alphabets, andererseits
+            Interpunktionszeichen und metaschriftliche Zeichen (Einfügungszeichen, Verweiszeichen,
+            Durchstreichungsstriche, Farbstriche usw.).</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K257">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">moderne Handschrift</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schriftträger</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K098">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Handschrift 2</skos:prefLabel>
+    <skos:note xml:lang="de">persönlich geprägte Form von Schriftzügen ("Er schickte mir einen
+            Brief, geschrieben in seiner unveränderlich schönen Handschrift.").</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K359">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Variante</skos:prefLabel>
+    <skos:note xml:lang="de">sprachliche Einheit, die von einer anderen, früheren oder späteren
+            Form abweicht; unterschiedliche Fassungen eines Textes unterscheiden sich durch ihre
+            Varianten; der Begriff der Variante setzt prinzipiell eine Fassung voraus, auf die sie
+            sich bezieht; in Bezug auf diese Fassung kann in einer kritischen Ausgabe ein
+            Variantenapparat erstellt werden.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K125">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Variantenapparat</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">Enthalten in der Erläuterung zu "Kritischer Apparat" u. "Variante"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K189">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">beschriebener Raum</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Rand" und "Schreibraum"</skos:editorialNote>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K211"/>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K208"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K374"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K158">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Notizbuch</skos:prefLabel>
+    <skos:note xml:lang="de">Schriftträger von kleinem Format und Umfang; dient sowohl zum
+            Festhalten von Gedanken oder biographischen Einzelheiten wie von Notizen zu entstehenden
+            Werken; Beispiel: die Notizbücher von Flaubert.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Heft</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K142">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Vertikalität der Umformulierungsparadigmen</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Linearisierte
+            Transkription</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K374">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Zeile</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Zwischenzeiliger Raum</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K189"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K118">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Seitenumbruch</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Korrekturfahne</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K014">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Folionummer</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Blatt</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K298">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Textabfassungsphase</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Textualisierungsphase</skos:altLabel>
+    <skos:altLabel xml:lang="de">Phase der eigentlichen Textabfassung</skos:altLabel>
+    <skos:note xml:lang="de">mit Brouillons und Arbeitshandschriften belegte Phase der
+            Textkonstitution; betrifft das Kernstück der Genese.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K192">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">genetisches Dokument</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Rand", "Entzifferung" u. "Hypertext"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K160">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Paläographie</skos:prefLabel>
+    <skos:note xml:lang="de">Wissenschaft von den Schriften des Altertums (orientalisch,
+            griechisch, lateinisch) und dem Substrat dieser Schriften; 1708 von Montfaucon
+            geschaffener Begriff.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K172">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Pergament</skos:prefLabel>
+    <skos:note xml:lang="de">aus Tierhäuten bestehender Schriftträger, der zuerst im
+            kleinasiatischen Pergamon hergestellt wurde.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Buchrolle" u. "Schriftträger"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K008">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Blatt</skos:prefLabel>
+    <skos:note xml:lang="de">gängige Bezeichnung für Schriftträger aus Papier; ein Blatt kann
+            von sehr unterschiedlichem Format sein; es besitzt zwei Seiten, die Vorder- und die
+            Rückseite (auch als recto und verso bezeichnet); ein Handschriftenkonvolut enthält eine
+            bestimmte Anzahl von Blättern, die einseitig oder beidseitig beschriftet sind. Jedem
+            Blatt wird bei der Archivierung eine Folionummer (Foliierung) zugeordnet.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K266">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Seite</skos:prefLabel>
+    <skos:note xml:lang="de">Papierfläche, auf der man schreibt; jede Seite stellt die Vorder-
+            oder Rückseite eines Blattes dar.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Rand</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K204">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Wortliste</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibprozeß</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K036">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Dossier génétique</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Avant-texte</skos:altLabel>
+    <skos:note xml:lang="de">chronologisch geordneter Komplex aller schriftlich überlieferten
+            textgenetischen Zeugen eines Werkes bzw. Gesamtheit aller überlieferten und chronologisch geordneten
+                schriftlichen Zeugen zur Genese eines (vollendeten oder unvollendeten)
+                Werkes.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S. 293 u.
+            294.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K030">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Critique génétique</skos:prefLabel>
+    <skos:note xml:lang="de">Rekonstruktion und Interpretation literarischer Schreibprozesse
+            anhand von schriftlich überliefertem Entstehungsmaterial.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K017">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Faltung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Bogen</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K215">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibvariante</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Sofortkorrektur</skos:altLabel>
+    <skos:note xml:lang="de">Um-Schreibung, die unmittelbar beim Schreiben erfolgt; Eingriff, durch den z.B. ein Wort sofort gestrichen und rechts
+            daneben durch das entsprechende neue Wort ersetzt wird. Man erkennt
+            sie an der Stelle, an der sie steht: gleich rechts neben der durchgestrichenen
+            Textstelle auf derselben Zeile; Synonym: Sofortkorrektur; Gegenteil: Lesevariante,
+            Spätkorrektur</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Lesevariante", "Schreibspur" u. "Spätkorrektur"</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K104">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Imprimatur</skos:prefLabel>
+    <skos:note xml:lang="de">Unterschrift, durch die der Autor die Druckerlaubnis für seinen
+            Text erteilt; mit dieser Unterschrift verläßt der Text definitiv die Privatsphäre des
+            Schreibens und geht in den Bereich des Öffentlichen ein, den des veröffentlichten
+            Buches.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K124">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Herausgeberbericht</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Kritischer Apparat</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K171">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">paradigmatisches Ensemble</skos:prefLabel>
+    <skos:note xml:lang="de">ein paradigmatisches Ensemble erscheint vertikal im horizontalen
+            Verlauf der syntagmatischen Linearität eines "avant-texte"</skos:note>
+    <skos:editorialNote xml:lang="de">aus der note zu Paradigma</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K269">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Skizze</skos:prefLabel>
+    <skos:note xml:lang="de">erste schriftliche Form eines Schreibprojektes; fließender Übergang
+            zum Entwurf, der jedoch schon eine Gesamtstruktur aufweist.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Schreibvorbereitungsphase", "Produktorientiertes Schreiben", "Entwurf" u. "Textgenetische Phase"</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K106">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Interlinearer Raum</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Zwischenzeiliger Raum</skos:altLabel>
+    <skos:note xml:lang="de">Schreibraum, der zwei beschriebene Zeilen voneinander trennt, aber
+            auch selbst Geschriebenes aufnehmen kann; vornehmlich Erweiterungen oder Ersetzungen für
+            durchgestrichene Einheiten. Synonym: interlinearer Raum.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295 u. 300.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Zwischenzeiliger Raum" u. "Lesevariante"</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K208"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K286">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Streichung</skos:prefLabel>
+    <skos:note xml:lang="de">Tilgung eines geschriebenen Segments, entweder um es durch ein
+            anderes Segment zu ersetzen (Ersetzung) oder um es definitiv zu tilgen; --&gt;
+            Tilgung.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Reinschrift", "Diplomatische Transkription" und "Brouillon"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K267">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Vorderseite</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Seite</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K170">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Substitutionsparadigma</skos:prefLabel>
+    <skos:note xml:lang="de">(ein Substitutionsparadigma stellt eine Reihe von Umformulierungen
+            einer Schreibeinheit dar;)</skos:note>
+    <skos:editorialNote xml:lang="de">aus der note zu Paradigma</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K188">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">graphischer Raum</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Rand</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K140">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Chronologisierung der Schreibelemente</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Linearisierte
+            Transkription</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K358">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Lösung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Unentschiedene
+            Alternative</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K163">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Papyrus</skos:prefLabel>
+    <skos:note xml:lang="de">aus dem Mark der Papyrosstaude in Ägypten hergestellter
+            Schriftträger</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Buchrolle" u. "Schriftträger"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K302">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Phase der Textkonstitution</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Textabfassungs- oder
+            Textualisierungsphase</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K011">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">verso</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Blattrückseite</skos:altLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Blatt</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K366">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Wasserzeichen</skos:prefLabel>
+    <skos:note xml:lang="de">ein in das Papier eingeprägtes Muster; "Hauptmarke", meistens in
+            figürlicher Form: Muschel, Krone usw.; kann mit einer Gegenmarke versehen sein; gibt
+            Hinweis zur Herkunft, zum Format, zur Qualität und manchmal zum Zeitpunkt der
+            Papierherstellung; es kann zur Datierung eines Schreibprozesses beitragen.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K153">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibakt</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Metaschriftlich" und "Schreibprozeß"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K057">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">metaschriftliches Zeichen</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung von "Einfügungszeichen" u. "Graphischer Signifikant"</skos:editorialNote>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K055"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K120">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Kritischer Apparat</skos:prefLabel>
+    <skos:note xml:lang="de">der Teil einer kritischen Edition, der die Entstehungsgeschichte
+            und die Überlieferung eines Textes, den Herausgeberbericht, den Variantenapparat sowie
+            Auszüge aus anderen Fassungen eines Textes usw. enthält.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K362">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">spätere Form</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Variante</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K350">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Umstellung</skos:prefLabel>
+    <skos:note xml:lang="de">Vorgang, bei dem der Platz einer bereits geschriebenen Textstelle
+            verändert wird, z. B. wenn eine bestimmte Episode an eine andere Stelle des Romantextes
+            verschoben wird.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379"/>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K173"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K228">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Personenliste</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu
+            Schreibvorbereitungsphase</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K050">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">maschinenschriftliche Abschrift</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Druckvorlage</skos:editorialNote>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K031"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K356">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Verschiebung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Umstellung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K214">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">schriftliches Zeichen</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibspur</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K218">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Stelle</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Schreibspur", "Schreibraum", "Einfügungszeichen" u. "Umstellung"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K149">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Konvolut</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Materielle
+            Beschreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K320">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Tilgung</skos:prefLabel>
+    <skos:note xml:lang="de">im allgemeinen durch einen Durchstreichungsstrich gekennzeichneter
+            Vorgang; es gibt aber auch Tilgungen ohne Streichung; z.B. kann bei zwei
+            aufeinanderfolgenden Abschnitten der zweite den ersten tilgen, ohne daß der erste
+            durchgestrichen ist.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Streichung</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K041">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">gedruckte Wiedergabe</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Diplomatische
+            Transkription</skos:editorialNote>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K040"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K198">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreiberhand</skos:prefLabel>
+    <skos:note xml:lang="de">ein Schriftstück ist von "Schreiberhand", wenn es nicht eigenhändig
+            vom Autor geschrieben ist.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K223">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibvorbereitungsphase</skos:prefLabel>
+    <skos:note xml:lang="de">zur Vorbereitung der eigentlichen Textabfassung dienende
+            Arbeitsphase: Lesenotizen, Pläne, Personenlisten, thematische Listen, Skizzen, Entwürfe
+            usw.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K206">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Fahnenkorrektur</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibprozeß</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K235">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Festschreiben graphischer Zeichen</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K013">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Archivierung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Blatt</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K173">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Permutation</skos:prefLabel>
+    <skos:note xml:lang="de">Vorgang, bei dem die Reihenfolge von zwei Schreibelementen (Wörter,
+            Sätze, Abschnitte oder ganze Kapitel) vertauscht wird; --&gt; Umstellung.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K350"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K063">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Entzifferung</skos:prefLabel>
+    <skos:note xml:lang="de">Lektürevorgang, bei dem der Textgenetiker den handschriftlichen
+            Befund der genetischen Dokumente identifiziert und aufschlüsselt; der Schwierigkeitsgrad
+            hängt von der jeweiligen Handschrift als solcher ab (Leserlichkeit bzw. Unleserlichkeit
+            einer Handschrift), von der Anzahl der Streichungen, vom Zustand der Konservierung
+            (Tinte kann leicht verblassen, Bleistift kann abgerieben werden) usw.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K377">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">durchgestrichene Einheit</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Zwischenzeiliger Raum</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K225">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Arbeitsphase</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu
+            Schreibvorbereitungsphase</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K049">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Abschrift von Schreiberhand</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Druckvorlage</skos:editorialNote>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K003"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K246">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Werkzeug</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K337">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">grammatikalische Korrektur</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Überschreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K230">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Liste</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu
+            Schreibvorbereitungsphase</skos:editorialNote>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K229"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K051">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Computerausdruck</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Druckvorlage</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">textgenetisches Stadium</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Stadium der Textentstehung</skos:altLabel>
+    <skos:altLabel xml:lang="de">Stadium einer Textgenese</skos:altLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Entwurf", "Überarbeitung", "Kollationieren" u. "Fassung"</skos:editorialNote>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K058"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K060"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K269"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K062"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K281">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Hierarchie</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Stemma</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K282">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">gegenseitige Abhängigkeit</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Stemma</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K144">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">horizontal-syntagmatische Sequenz</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Linearisierte
+            Transkription</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K048">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">eigenhändige Reinschrift</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Druckvorlage</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K314">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Zusammenfassung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Textgenetische Phase</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K207">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Augabe</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibprozeß</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K105">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Incipit</skos:prefLabel>
+    <skos:note xml:lang="de">Anfang eines Textes, aber auch eines Schreibprozesses; beide fallen
+            nicht zwangsläufig zusammen.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K035">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Entstehungsmaterial</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Critique génétique</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K025">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Buchrolle</skos:prefLabel>
+    <skos:note xml:lang="de">im Laufe des 2. Jahrhunderts v. Chr. erfundener Schriftträger in
+            Form einer Rolle aus Papyrus oder Pergament; nach einer langen Übergangsphase
+            schließlich ganz vom Kodex abgelöst.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K199">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibphase</skos:prefLabel>
+    <skos:note xml:lang="de">zeitliche und inhaltliche Einheit eines Schreibvorganges; nach
+            einer mehr oder weniger langen Unterbrechung kann eine neue Schreibphase
+            beginnen.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K146">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">räumliches Indiz</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Linearisierte
+            Transkription</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K015">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Bogen</skos:prefLabel>
+    <skos:note xml:lang="de">Papiereinheit im "Rohzustand", d.h. in der Größe, wie das Papier
+            aus der Presse kommt. Erst durch ein- oder mehrmaliges Falten entsteht das Blattformat;
+            ohne Faltung: Planoformat; einmalige Faltung: Folio; zweimalige Faltung: Quart;
+            dreimalige Faltung: Oktav.</skos:note>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K075">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Faksimile</skos:prefLabel>
+    <skos:note xml:lang="de">Drucktechnik, die die wesentlichen Eigenschaften des Originals
+            wahrt; Ende des 18. Jahrhunderts als "Lithographie" erfunden; im 19. Jahrhundert von der
+            Fotographie, im 20. Jahrhundert von Mikrofilm, Fotokopie und Scanner
+            abgelöst.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K295">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Linie</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Szenario</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K194">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Reinschrift</skos:prefLabel>
+    <skos:note xml:lang="de">handschriftliches Stadium eines Textes, das grundsätzlich keine
+            Streichungen mehr enthält und grundsätzlich die letzte Phase der Textgenese darstellt;
+            vom Autor selbst oder einem Sekretär angefertigt.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Textgenetische Phase</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K361">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">frühere Form</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Variante</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K268">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Rückseite</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Seite</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K191">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Satzspiegel</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Rand" u. "Um-Schreibung"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K012">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Handschriftenkonvolut</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Blatt</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K217">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreiben</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibspur; meint Schreibakt? nein, eher sowas wie Schreibphase?</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K238">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Stichel</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K152">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Metaschriftlich</skos:prefLabel>
+    <skos:note xml:lang="de">charakterisiert jedes geschriebene Zeichen, dessen Inhalt sich auf
+            den Schreibakt selbst, die Bedingungen der Textherstellung und die Arbeit des
+            schriftlichen Formulierens bezieht.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K265">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Kapitel</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Segment" u. "Um-Schreibung"</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K293">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Szenario</skos:prefLabel>
+    <skos:note xml:lang="de">eine Art Skript, worin der Autor die groben Linien festhält, die
+            dem Schreibprojekt zugrunde gelegt werden; das Szenario hat mit den Didaskalien des
+            Theatertextes den Nominalstil und die rudimentäre Syntax mit Verb im Präsens gemein;
+            Beispiel: "Machärus. Zwingburg, Stadt – Landschaft. – Morgen, es wird Tag, Nebel. König
+            Antipas auf seiner Terrasse" (Flaubert, Szenario zu Hérodias).</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K154">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Textherstellung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Metaschriftlich</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K123">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Überlieferung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Kritischer Apparat</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K116">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibfehler</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Lapsus</skos:altLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Korrektur</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K115">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">sprachlicher Fehler</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Korrektur</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K121">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Kritische Edition</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Kritische Ausgabe</skos:altLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Kritischer Apparat" und "Variante"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K054">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Handschrift (Schriftzüge) ?</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Duktus</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K062">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Szenario</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Entwurf</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K270">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Form eines Schreibprojektes</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Skizze</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K249">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schriftträger</skos:prefLabel>
+    <skos:note xml:lang="de">Material, auf das die handgeschriebenen Schreibspuren aufgezeichnet
+            werden: Stein, Papyrus, Pergament, Wachstafel, Holztafel usw.; für die modernen
+            Handschriften: Papier.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Schreibwerkzeug", "Schreibspur", "Schreiber", "Papyrus", "Papier", "Moderne Kodikologie", "Materielle Beschreibung", "Buchrolle" u. "Blatt"</skos:editorialNote>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K252"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K255"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K256"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K097">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Handschrift 1</skos:prefLabel>
+    <skos:note xml:lang="de">jedes von Hand geschriebene Dokument.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Diplomatische
+            Transkription?</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K211">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">nicht beschriebener Raum</skos:prefLabel>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K189"/>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibraum</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K208"/>
+    <skos:narrower rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K187"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K174">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Schreibelement</skos:prefLabel>
+    <skos:note xml:lang="de">(Wörter, Sätze, Abschnitte oder ganze Kapitel)</skos:note>
+    <skos:editorialNote xml:lang="de">aus der note zu Permutation; könnte auch Segment gemeint
+            sein</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K085">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Gebundene Variante</skos:prefLabel>
+    <skos:note xml:lang="de">Umformulierung, die an grammatikalische Gesetzmäßigkeiten der
+            Sprache gebunden ist (Korrektur) oder das Ergebnis einer freien Variante auf den Rest
+            des Satzes überträgt (In freier Variante wird das Subjekt des Satzes "Das Haus ist
+            klein" erweitert zu "Das Haus und der Garten"; daraus folgt zwangsläufig eine gebundene
+            Variante, nämlich die Korrektur von "ist" zu "sind").</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K263">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Satz</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Segment</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K076">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Drucktechnik</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Faksimile</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K255">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Wachstafel</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schriftträger</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K249"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K155">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Moderne Kodikologie</skos:prefLabel>
+    <skos:note xml:lang="de">Hilfswissenschaft, die die moderne Handschrift als materiellen und
+            historischen Gegenstand untersucht: Schriftträger, Schreibwerkzeuge und Schreibspuren;
+            Geschichte der Handschriftenbestände, Verzeichnisse und Kataloge.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K005">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Ausgabe letzter Hand</skos:prefLabel>
+    <skos:note xml:lang="de">letzte vom Autor durchgesehene, korrigierte und autorisierte
+            Fassung, die der kritischen Ausgabe zugrunde gelegt wird.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293.</dct:source>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K068"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K357">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Unentschiedene Alternative</skos:prefLabel>
+    <skos:note xml:lang="de">mehrere nebeneinander bestehende Lösungen, von denen keine
+            gestrichen ist.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K318">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Abschrift</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Textgenetische Phase</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K168">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">syntaktische Kategorie</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Paradigma</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K284">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">gedruckter Zeuge</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Stemma</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K369"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K020">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Quart</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Quart-Format</skos:altLabel>
+    <skos:note xml:lang="de">(zweimalige Faltung)</skos:note>
+    <skos:editorialNote xml:lang="de">aus der note zu Bogen</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K242">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Bleistift</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K038">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Diplomatische Transkription</skos:prefLabel>
+    <skos:note xml:lang="de">ursprünglich, im Kontext mittelalterlicher Handschriften, eine den
+            Wortlaut treu wiedergebende Umschrift einer Urkunde; im Rahmen der "critique génétique"
+            maschinenschriftliche oder gedruckte Wiedergabe einer Handschrift, die sich strikt an
+            die Topographie des beschriebenen Raumes einer Seite hält: jedes Schriftzeichen
+            erscheint an derselben Stelle der Seite wie auf dem Original. Insbesondere Randnotizen,
+            Streichungen und interlineare Einfügungen müssen als solche auch in der Transkription
+            visuell erkennbar sein.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K297">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Didaskalie</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Szenario</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K264">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Abschnitt</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Segment" u. "Um-Schreibung"</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K108">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Kodex</skos:prefLabel>
+    <skos:altLabel xml:lang="de">codex</skos:altLabel>
+    <skos:note xml:lang="de">handgeschriebenes Buch in seiner frühesten Form; seine Erfindung in
+            den ersten Jahrhunderten n. Chr. kennzeichnet den allmählichen Übergang von der
+            Buchrolle (oder Rolle) zur Form des gebundenen Buches.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:editorialNote xml:lang="de">aus der note zu Buchrolle</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K159">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Umfang</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Notizbuch</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K354">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Episode</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Umstellung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K333">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Darüberschreiben</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Überschreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K040">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">maschinenschriftliche Wiedergabe</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Diplomatische
+            Transkription</skos:editorialNote>
+    <skos:related rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K041"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K088">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Genetische Ausgabe</skos:prefLabel>
+    <skos:note xml:lang="de">Ausgabe, die in gedruckter Form und in der chronologischen
+            Reihenfolge des Schreibprozesses alle überlieferten textgenetischen Dokumente eines
+            Werkes oder eines Werkfragments vorstellt; Beispiel: die genetische Ausgabe von Un cæur
+            simple von Flaubert, Hrsg. G. Bonaccorso (siehe Bibliogrphie).</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295.</dct:source>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K323">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Tilgung ohne Streichung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Tilgung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K370">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Dokument</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Zeuge</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K274">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Eingriff</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Sofortkorrektur</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K347">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">abgeschlossener Text</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Um-Schreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K229">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">thematische Liste</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu
+            Schreibvorbereitungsphase</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K230"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K060">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Plan</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Entwurf", "Produktorientiertes Schreiben", "Prozessorientiertes Schreiben", "Schreibvorbereitungsphase" u. "Textgenetische Phase".</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K325">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Überarbeitung</skos:prefLabel>
+    <skos:note xml:lang="de">Um-Schreibung, Umformulierung; setzt ein schon relativ
+            ausgearbeitetes Stadium der Textentstehung voraus.</skos:note>
+    <dct:source xml:lang="de">Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299.</dct:source>
+    <skos:editorialNote xml:lang="de">enthalten in der Erläuterung zu "Um-Schreibung"</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K185">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Vorbereitungsphase</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Prozeßorientiertes
+            Schreiben</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K019">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Folio</skos:prefLabel>
+    <skos:altLabel xml:lang="de">Folio-Format</skos:altLabel>
+    <skos:note xml:lang="de">(einmalige Faltung)</skos:note>
+    <skos:editorialNote xml:lang="de">aus der note zu Bogen</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K342">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Geschriebenes</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Um-Schreibung</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K283">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">handschriftlicher Zeuge</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Stemma</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K369"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K241">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Stahlfeder</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K240">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Gänsekiel</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Schreibwerkzeug</skos:editorialNote>
+    <skos:broader rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248"/>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K316">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="de">Ausarbeitung</skos:prefLabel>
+    <skos:editorialNote xml:lang="de">aus der note zu Textgenetische Phase</skos:editorialNote>
+    <skos:inScheme rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+    <skos:topConceptOf rdf:resource="http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/"/>
+  </rdf:Description>
+</rdf:RDF>
