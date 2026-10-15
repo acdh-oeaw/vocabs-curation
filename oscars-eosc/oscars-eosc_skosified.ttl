@@ -512,7 +512,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:note "Cluster website: panosc.eu"@en ;
     skos:prefLabel "PaNOSC"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Persistentdentifier> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/PersistentIdentifier> a skos:Concept ;
     dc:source "OSCARS Glossary Task Force 2026, based on several sources" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -1095,7 +1095,7 @@ Representatives of the five science clusters provided input for the glossary. SS
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Instrument>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/KnowledgeGraph>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/OpenScience>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Persistentdentifier>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/PersistentIdentifier>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ResearchCommunity>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ResearchInfrastructure>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ResearchProduct>,
