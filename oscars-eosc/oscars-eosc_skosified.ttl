@@ -114,16 +114,16 @@
     skos:prefLabel "e-infrastructure"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EInfrastructureEoscNode> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EInfrastructureEOSCNode> a skos:Concept ;
     dc:source "OSCARS Glossary Task Force 2026, based on several sources" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
-    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscNode> ;
+    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCNode> ;
     skos:definition "infrastructure that connects one or more horizontal services to the EOSC Federation"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "e-infrastructure EOSC Node"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Envri> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ENVRI> a skos:Concept ;
     dc:source "https://envri.eu/" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -133,7 +133,7 @@
     skos:note "Cluster website: envri.eu"@en ;
     skos:prefLabel "ENVRI"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Eosc> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSC> a skos:Concept ;
     dc:source "https://eosc.eu/eosc-about" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -143,7 +143,7 @@
     skos:prefLabel "European Open Science Cloud"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscABoardOfDirectors> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCABoardOfDirectors> a skos:Concept ;
     dc:source "https://eosc.eu/eosc-association/board-directors" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -153,7 +153,7 @@
     skos:prefLabel "EOSC-A Board of Directors"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAExchange> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAExchange> a skos:Concept ;
     dc:source "EOSC Federation Handbook; https://zenodo.org/records/18454649" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -162,7 +162,7 @@
     skos:prefLabel "EOSC-A Exchange"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAGeneralAssembly> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAGeneralAssembly> a skos:Concept ;
     dc:source "https://eosc.eu/members" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -171,17 +171,17 @@
     skos:prefLabel "EOSC-A General Assembly"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAMandatedOrganisation> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAMandatedOrganisation> a skos:Concept ;
     dc:source "EOSC AISBL Statutes, (2020), FINAL. https://www.eoscsecretariat.eu/sites/default/files/eosc_statutes.pdf​.",
         "adapted from https://eosc.eu/eosc-association/mandated-organisations" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
-    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAMember> ;
+    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAMember> ;
     skos:definition "​EOSC-A member​ appointed by the governement of a country to represent the national interests in EOSC"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "EOSC-A Mandated Organisation"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAObserver> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAObserver> a skos:Concept ;
     dc:source "EOSC AISBL Statutes, (2020), FINAL. https://www.eoscsecretariat.eu/sites/default/files/eosc_statutes.pdf​",
         "EOSC Glossary September 2020" ;
     dct:created "2026-10-15"^^xsd:date ;
@@ -192,7 +192,7 @@
     skos:prefLabel "EOSC-A Observer"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscASecretariat> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCASecretariat> a skos:Concept ;
     dc:source "https://eosc.eu/eosc-association/secretariat" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -201,7 +201,7 @@
     skos:prefLabel "EOSC-A Secretariat"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscATaskForces> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCATaskForces> a skos:Concept ;
     dc:source "https://eosc.eu/eosc-association/eosc-task-forces" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -210,7 +210,7 @@
     skos:prefLabel "EOSC-A Task Forces"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAcademy> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAcademy> a skos:Concept ;
     dc:source "https://eosc.eu/academy" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -219,7 +219,7 @@
     skos:prefLabel "EOSC Academy"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAssociation> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAssociation> a skos:Concept ;
     dc:source "EOSC Future project glossary" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -231,7 +231,7 @@
     skos:prefLabel "EOSC Association"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscFederation> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCFederation> a skos:Concept ;
     dc:source "EOSC Federation Handbook; https://zenodo.org/records/18454649" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -243,7 +243,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "EOSC Federation"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscFederationHandbook> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCFederationHandbook> a skos:Concept ;
     dc:source "https://eosc.eu/building-the-eosc-federation/eosc-federation-handbook; see also: https://zenodo.org/records/18454649" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -253,7 +253,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "EOSC Federation Handbook"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscHorizonEuropeProject> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCHorizonEuropeProject> a skos:Concept ;
     dc:source "OSCARS Glossary Task Force 2026, based on several sources;" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -263,7 +263,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "EOSC Horizon Europe project"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscInteroperabilityFramework> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCInteroperabilityFramework> a skos:Concept ;
     dc:source "EOSC Federation Handbook; https://zenodo.org/records/18454649" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -274,7 +274,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "EOSC Interoperability Framework"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscKnowledgeHub> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCKnowledgeHub> a skos:Concept ;
     dc:source "EOSC Future project glossary",
         "https://wiki.eoscfuture.eu/display/PUBLIC/EOSC+Future+Glossary" ;
     dct:created "2026-10-15"^^xsd:date ;
@@ -284,17 +284,17 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "EOSC knowledge hub"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscNationalTripartitieEvent> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCNationalTripartitieEvent> a skos:Concept ;
     dc:source "https://eosc.eu/tripartite-collaboration" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
-    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscTripartiteGovernance> ;
+    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCTripartiteGovernance> ;
     skos:definition "series of events organised by the EOSC-A to more deeply engage the Member States and the Associated Countries in EOSC"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:note "Post-event reports and presentations from these events can be found on the individual country pages."@en ;
     skos:prefLabel "EOSC national tripartitie event"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscOpportunityAreaExpertGroups> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCOpportunityAreaExpertGroups> a skos:Concept ;
     dc:source "https://eosc.eu/eosc-opportunity-area-expert-groups" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -303,7 +303,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "EOSC Opportunity Area Expert Groups"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscPartnership> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCPartnership> a skos:Concept ;
     dc:source "EOSC Executive Board. (2020). Draft proposal for a European Partnership under Horizon Europe European Open Science Cloud (EOSC) Partnership. https://ec.europa.eu/info/sites/info/files/research_and_innovation/funding/documents/ec_rtd_he- partnership-open-science-cloud-eosc.pdf​.",
         "EOSC Glossary September 2020" ;
     dct:created "2026-10-15"^^xsd:date ;
@@ -315,16 +315,16 @@ distributed network of services to enable Open Science across disciplinary and n
         "The EOSC Partnership is funded through structured funding under Horizon Europe and in-kind contributions from member countries and stakeholders."@en ;
     skos:prefLabel "EOSC Partnership"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscResearchProductCatalogue> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCResearchProductCatalogue> a skos:Concept ;
     dc:source "OSCARS Glossary Task Force 2026, based on several sources" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
-    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscResourceCatalogue> ;
+    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCResourceCatalogue> ;
     skos:definition "catalogue of digital objects created during the research lifecycle, such as publications, datasets, and software that facilitates discovery and access to research products registered within the EOSC Federation"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "EOSC research product catalogue"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscResourceProvider> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCResourceProvider> a skos:Concept ;
     dc:source "EOSC Federation Handbook; https://zenodo.org/records/18454649" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -333,16 +333,16 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "EOSC resource provider"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscServiceCatalogue> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCServiceCatalogue> a skos:Concept ;
     dc:source "EOSC Federation Handbook; https://zenodo.org/records/18454649" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
-    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscResourceCatalogue> ;
+    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCResourceCatalogue> ;
     skos:definition "catalogue for EOSC Node service providers to describe their service offerings using a service metadata profile"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "EOSC service catalogue"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscUser> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCUser> a skos:Concept ;
     dc:source "EOSC Federation Handbook (shortened); https://zenodo.org/records/18454649;" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -351,7 +351,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "EOSC user"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscWorkProgramme> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCWorkProgramme> a skos:Concept ;
     dc:source "EOSC Future project glossary",
         "https://www.eosc.eu/sites/default/files/EOSC-SRIA-V1.0_15Feb2021.pdf" ;
     dct:created "2026-10-15"^^xsd:date ;
@@ -361,7 +361,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "EOSC Work Programme"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Escape> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ESCAPE> a skos:Concept ;
     dc:source "https://projectescape.eu/about-us" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -371,16 +371,16 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:note "Cluster website: projectescape.eu"@en ;
     skos:prefLabel "ESCAPE"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EuNode> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EUNode> a skos:Concept ;
     dc:source "EOSC Federation Handbook; https://zenodo.org/records/18454649" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
-    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscNode> ;
+    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCNode> ;
     skos:definition "fully operational platform providing access to a portfolio of professional-quality research services and resources and enabling with Federating Capabilities the development of the EOSC Federation"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "EU Node"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FairDigitalObject> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FAIRDigitalObject> a skos:Concept ;
     dc:source "EOSC Glossary September 2020",
         "OSCARS Glossary Task Force 2026, based on several sources" ;
     dct:created "2026-10-15"^^xsd:date ;
@@ -391,13 +391,13 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "FAIR digital object"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FairPrinciples> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FAIRPrinciples> a skos:Concept ;
     dc:source "COMMISSION DECISION of 27.8.2018 Setting up the Expert Group - Executive Board of the European Open Science Cloud ('EOSC') and laying down rules for its financing",
         "EOSC Glossary September 2020" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
     skos:altLabel "FAIR Guiding Principles"@en ;
-    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FairData> ;
+    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FAIRData> ;
     skos:definition "set of guidelines to make ​data​ Findable, Accessible, Interoperable, and Reusable"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "FAIR principles"@en .
@@ -421,7 +421,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "generic repository"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Hpc> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/HPC> a skos:Concept ;
     dc:source "ISO: https://www.iso.org/obp/ui/#iso:std:iso-iec:21836:ed-1:v1:en:term:3.1.24" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -463,11 +463,11 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:note "Cluster website: lifescience-ri.eu"@en ;
     skos:prefLabel "Life Science Research Infrastructures"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/NationalEoscNode> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/NationalEOSCNode> a skos:Concept ;
     dc:source "OSCARS Glossary Task Force 2026, based on several sources" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
-    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscNode> ;
+    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCNode> ;
     skos:definition "country-specific platforms and infrastructures that connect the local national research communities to the EOSC ecosystem"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "national EOSC Node"@en .
@@ -502,7 +502,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "open science"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Panosc> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/PaNOSC> a skos:Concept ;
     dc:source "https://www.panosc.eu/" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -605,17 +605,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "rights metadata"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ScienceClusters> a skos:Concept ;
-    dc:source "https://science-clusters.eu/",
-        "https://zenodo.org/records/17224742" ;
-    dct:created "2026-10-15"^^xsd:date ;
-    dct:modified "2026-10-15"^^xsd:date ;
-    skos:definition "network grown out of five collaborative projects funded by the European Union in 2019 to link ESFRI and other world-class Research Infrastructures (RIs) to EOSC"@en ;
-    skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:prefLabel "Science Clusters"@en ;
-    skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
-
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Sshoc> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/SSHOC> a skos:Concept ;
     dc:source "https://sshoc.eu/news/sshoc-ssh-open-cluster" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
@@ -625,6 +615,16 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:note "Cluster website: sshoc.eu/news"@en ;
     skos:prefLabel "SSH Open Cluster"@en .
+
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ScienceClusters> a skos:Concept ;
+    dc:source "https://science-clusters.eu/",
+        "https://zenodo.org/records/17224742" ;
+    dct:created "2026-10-15"^^xsd:date ;
+    dct:modified "2026-10-15"^^xsd:date ;
+    skos:definition "network grown out of five collaborative projects funded by the European Union in 2019 to link ESFRI and other world-class Research Infrastructures (RIs) to EOSC"@en ;
+    skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
+    skos:prefLabel "Science Clusters"@en ;
+    skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
 <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/StrategicResearchAndInnovationAgenda> a skos:Concept ;
     dc:source "https://eosc.eu/eosc-about/sria-mar",
@@ -647,6 +647,26 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "structural metadata"@en .
 
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/TRL> a skos:Concept ;
+    dc:source "https://en.wikipedia.org/wiki/Technology_readiness_level" ;
+    dct:created "2026-10-15"^^xsd:date ;
+    dct:modified "2026-10-15"^^xsd:date ;
+    skos:altLabel "TRL"@en ;
+    skos:definition "scale-based method, with values ranging from 1 (lowest) to 9 (highest), used to estimate the maturity of a technology at a given point during a programme's acquisition or development phase"@en ;
+    skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
+    skos:prefLabel "Technology Readiness Level"@en ;
+    skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
+
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/TRUSTPrinciples> a skos:Concept ;
+    dc:source "EOSC Glossary September 2020",
+        "Lin, D., Crabtree, J., Dillo, I., Downs, R. R., Edmunds, R., Giaretta, D., Giusti, M. D., L’Hours, H., Hugo, W., Jenkyns, R., Khodiyar, V., Martone, M., Mokrane, M., Navale, V., Petters, J., Sierman, B., Sokolova, D. V., & Stockhause, M. (2019). The TRUST Principles for Digital Repositories — A White Paper (Version 0.03 (draft)). https://docs.google.com/document/d/1pbRw1uf-W-BRMxjj8ZNZJHQTI-ggLjRWq8jiu4Oy6Yc/edit ." ;
+    dct:created "2026-10-15"^^xsd:date ;
+    dct:modified "2026-10-15"^^xsd:date ;
+    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/TrustedDigitalRepository> ;
+    skos:definition "set of guidelines to make ​digital repositories​ suitable for data and FAIR digital objects management​ and long-term preservation based on Transparency, Responsibility, User community, Sustainability and Technology (TRUST)"@en ;
+    skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
+    skos:prefLabel "TRUST principles"@en .
+
 <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/TechnicalMetadata> a skos:Concept ;
     dc:source "EOSC Glossary September 2020",
         "ISO/TR 14873:2013, modified –– reference to resource instead of digital object." ;
@@ -658,11 +678,11 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "technical metadata"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ThematicEoscNode> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ThematicEOSCNode> a skos:Concept ;
     dc:source "EOSC Federation Handbook; https://zenodo.org/records/18454649" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
-    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscNode> ;
+    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCNode> ;
     skos:definition "EOSC Node representing communities working in a specific scientific domain of research or with specific scientific techniques"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "thematic EOSC Node"@en .
@@ -686,26 +706,6 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:note "If a training resource is used in a training environment, for training activities that are part of a training plan and involve instructors, facilitators and students, then we speak of training materials."@en ;
     skos:prefLabel "training resource"@en .
-
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Trl> a skos:Concept ;
-    dc:source "https://en.wikipedia.org/wiki/Technology_readiness_level" ;
-    dct:created "2026-10-15"^^xsd:date ;
-    dct:modified "2026-10-15"^^xsd:date ;
-    skos:altLabel "TRL"@en ;
-    skos:definition "scale-based method, with values ranging from 1 (lowest) to 9 (highest), used to estimate the maturity of a technology at a given point during a programme's acquisition or development phase"@en ;
-    skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:prefLabel "Technology Readiness Level"@en ;
-    skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
-
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/TrustPrinciples> a skos:Concept ;
-    dc:source "EOSC Glossary September 2020",
-        "Lin, D., Crabtree, J., Dillo, I., Downs, R. R., Edmunds, R., Giaretta, D., Giusti, M. D., L’Hours, H., Hugo, W., Jenkyns, R., Khodiyar, V., Martone, M., Mokrane, M., Navale, V., Petters, J., Sierman, B., Sokolova, D. V., & Stockhause, M. (2019). The TRUST Principles for Digital Repositories — A White Paper (Version 0.03 (draft)). https://docs.google.com/document/d/1pbRw1uf-W-BRMxjj8ZNZJHQTI-ggLjRWq8jiu4Oy6Yc/edit ." ;
-    dct:created "2026-10-15"^^xsd:date ;
-    dct:modified "2026-10-15"^^xsd:date ;
-    skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/TrustedDigitalRepository> ;
-    skos:definition "set of guidelines to make ​digital repositories​ suitable for data and FAIR digital objects management​ and long-term preservation based on Transparency, Responsibility, User community, Sustainability and Technology (TRUST)"@en ;
-    skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:prefLabel "TRUST principles"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/VirtualResearchEnvironment> a skos:Concept ;
     dc:source "EOSC Federation Handbook; https://zenodo.org/records/18454649" ;
@@ -778,7 +778,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Data> ;
     skos:definition "any kind of digital resource (in particular scholarly objects) made available through network access, interactive databases, software, and workflows"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FairDigitalObject> ;
+    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FAIRDigitalObject> ;
     skos:note "A digital object allows to bind all critical information about any entity together, including ​research data​, software, scientific workflows, hardware designs, protocols, provenance logs, publications, presentations, etc., as well as all their ​metadata​ (for the complete object and for its constituents)."@en ;
     skos:prefLabel "digital object"@en .
 
@@ -793,24 +793,24 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
     skos:prefLabel "domain repository"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAMember> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAMember> a skos:Concept ;
     dc:source "EOSC AISBL Statutes, (2020), FINAL. https://www.eoscsecretariat.eu/sites/default/files/eosc_statutes.pdf​.",
         "OSCARS Glossary Task Force 2026, based on several sources; see also https://eosc.eu/members" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
     skos:definition "European ​legal entity​ admitted to the ​EOSC Association​ with full voting rights in the EOSC General Assembly"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAMandatedOrganisation> ;
+    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAMandatedOrganisation> ;
     skos:prefLabel "EOSC-A Member"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscTripartiteGovernance> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCTripartiteGovernance> a skos:Concept ;
     dc:source "https://eosc.eu/tripartite-collaboration" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
     skos:definition "strategic coordination structure between the EU, represented by the Commission, the EOSC Association, and the Member States and Associated Countries to resource and support the implementation of the EOSC environment in Europe"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscNationalTripartitieEvent> ;
+    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCNationalTripartitieEvent> ;
     skos:note "The Member States and Associated Countries are represented by the EOSC Steering Board."@en,
         "The aim is: advancing the Open Science system and aligning national and EU policies to improve the production of FAIR research output."@en ;
     skos:prefLabel "EOSC Tripartite Governance"@en ;
@@ -822,18 +822,18 @@ distributed network of services to enable Open Science across disciplinary and n
     dct:modified "2026-10-15"^^xsd:date ;
     skos:definition "initiative in which the EU Commission and private and/or public partners commit themselves to jointly support the development and implementation of a research and innovation programme"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscPartnership> ;
+    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCPartnership> ;
     skos:prefLabel "European Partnership"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FairData> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FAIRData> a skos:Concept ;
     dc:source "EOSC Glossary September 2020" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Data> ;
     skos:definition "data​ that conform to the ​FAIR principles​"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FairPrinciples> ;
+    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FAIRPrinciples> ;
     skos:prefLabel "FAIR data"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/HorizontalService> a skos:Concept ;
@@ -869,17 +869,17 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/CertifiedRepository> ;
     skos:definition "repository​ certfied according to ISO standard16363 or the CoreTrustSeal Trustworthy Data Repositories requirements"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/TrustPrinciples> ;
+    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/TRUSTPrinciples> ;
     skos:prefLabel "trusted digital repository"@en .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscResourceCatalogue> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCResourceCatalogue> a skos:Concept ;
     dc:source "EOSC Federation Handbook; https://zenodo.org/records/18454649" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
     skos:definition "catalogue of all EOSC resources, the result of integrating the EOSC service catalogue and the EOSC research product catalogue"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscResearchProductCatalogue>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscServiceCatalogue> ;
+    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCResearchProductCatalogue>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCServiceCatalogue> ;
     skos:note "The catalogue is hosted by the EU Node and enables the discovery and access of resources provided through EOSC Nodes within the EOSC"@en ;
     skos:prefLabel "EOSC resource catalogue"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
@@ -948,16 +948,16 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:prefLabel "data management"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
-<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscNode> a skos:Concept ;
+<https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCNode> a skos:Concept ;
     dc:source "EOSC Federation Handbook; https://zenodo.org/records/18454649" ;
     dct:created "2026-10-15"^^xsd:date ;
     dct:modified "2026-10-15"^^xsd:date ;
     skos:definition "organisation that complies with the EOSC Federation policies and legal framework, and shares resources at the local, national, regional, thematic or European level"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EInfrastructureEoscNode>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EuNode>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/NationalEoscNode>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ThematicEoscNode> ;
+    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EInfrastructureEOSCNode>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EUNode>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/NationalEOSCNode>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ThematicEOSCNode> ;
     skos:note "An EOSC Node offers resources that provide added value to the EOSC Federation and implements Federating Capabilities in collaboration with other EOSC Nodes. Each EOSC Node is responsible for its autonomy, governance and resources. It operates its own platform, complying with the EOSC IF technical framework, and the EOSC Node architecture."@en ;
     skos:prefLabel "EOSC Node"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
@@ -1012,11 +1012,11 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:definition "collaborative framework that brings together research infrastructures from a specific scientific domain to align their capabilities, develop common solutions, and contribute domain-specific resources and services to EOSC"@en ;
     skos:example "ENVRI, ESCAPE, PaNOSC, LS-RI, SSHOC"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Envri>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Escape>,
+    skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ENVRI>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ESCAPE>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/LifeScienceResearchInfrastructures>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Panosc>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Sshoc> ;
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/PaNOSC>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/SSHOC> ;
     skos:note "The five science clusters collaborate under network label 'Science Clusters'. See science-clusters.eu"@en ;
     skos:prefLabel "science cluster"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
@@ -1032,7 +1032,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/DataLifeCycle>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/DigitalData>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/DigitalObject>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FairData>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FAIRData>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Metadata>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/OpenData>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/PersonalData>,
@@ -1067,31 +1067,31 @@ Representatives of the five science clusters provided input for the glossary. SS
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/DataManagement>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/DigitalInfrastructure>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EInfrastructure>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Eosc>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscABoardOfDirectors>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAExchange>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAGeneralAssembly>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAMember>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAObserver>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscASecretariat>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscATaskForces>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAcademy>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscAssociation>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscFederation>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscFederationHandbook>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscHorizonEuropeProject>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscInteroperabilityFramework>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscKnowledgeHub>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscNode>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscOpportunityAreaExpertGroups>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscResourceCatalogue>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscResourceProvider>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscTripartiteGovernance>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscUser>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EoscWorkProgramme>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSC>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCABoardOfDirectors>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAExchange>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAGeneralAssembly>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAMember>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAObserver>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCASecretariat>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCATaskForces>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAcademy>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCAssociation>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCFederation>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCFederationHandbook>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCHorizonEuropeProject>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCInteroperabilityFramework>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCKnowledgeHub>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCNode>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCOpportunityAreaExpertGroups>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCResourceCatalogue>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCResourceProvider>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCTripartiteGovernance>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCUser>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EOSCWorkProgramme>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EuropeanPartnership>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/FederationCapabilities>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Hpc>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/HPC>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Instrument>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/KnowledgeGraph>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/OpenScience>,
@@ -1104,7 +1104,7 @@ Representatives of the five science clusters provided input for the glossary. SS
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ScienceClusters>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Service>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/StrategicResearchAndInnovationAgenda>,
-        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Trl>,
+        <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/TRL>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/VirtualResearchEnvironment>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Workflow> ;
     skos:prefLabel "OSCARS / EOSC Glossary"@en .
