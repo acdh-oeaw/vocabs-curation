@@ -130,6 +130,7 @@
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ScienceCluster> ;
     skos:definition "European network of environmental research infrastructures, projects, and stakeholders working together to advance environmental research"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
+    skos:note "Cluster website: envri.eu"@en ;
     skos:prefLabel "ENVRI"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Eosc> a skos:Concept ;
@@ -367,6 +368,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ScienceCluster> ;
     skos:definition "collaborative cluster of next generation European infrastructural facilities in the area of astronomy and accelerator-based particle physics, aimed at implementing a functional link with EOSC"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
+    skos:note "Cluster website: projectescape.eu"@en ;
     skos:prefLabel "ESCAPE"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/EuNode> a skos:Concept ;
@@ -458,6 +460,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ScienceCluster> ;
     skos:definition "cluster of European research infrastructures and related organisations that support research and innovation in life sciences by providing access to data, services, tools, facilities and expertise"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
+    skos:note "Cluster website: lifescience-ri.eu"@en ;
     skos:prefLabel "Life Science Research Infrastructures"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/NationalEoscNode> a skos:Concept ;
@@ -506,6 +509,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ScienceCluster> ;
     skos:definition "science cluster representing infrastructures for photon and neutron research, developing and providing services for its scientific community and connecting these to EOSC"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
+    skos:note "Cluster website: panosc.eu"@en ;
     skos:prefLabel "PaNOSC"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Persistentdentifier> a skos:Concept ;
@@ -619,6 +623,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/ScienceCluster> ;
     skos:definition "network of Research Infrastructures aiming at realising the Social Sciences and Humanities part of EOSC"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
+    skos:note "Cluster website: sshoc.eu/news"@en ;
     skos:prefLabel "SSH Open Cluster"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/StrategicResearchAndInnovationAgenda> a skos:Concept ;
@@ -1012,7 +1017,7 @@ distributed network of services to enable Open Science across disciplinary and n
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/LifeScienceResearchInfrastructures>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Panosc>,
         <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Sshoc> ;
-    skos:note "The five science clusters collaborate under the networlkorganisation known as 'science clusters'."@en ;
+    skos:note "The five science clusters collaborate under network label 'Science Clusters'. See science-clusters.eu"@en ;
     skos:prefLabel "science cluster"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
