@@ -240,8 +240,7 @@
     dcterms:modified "2026-10-15"^^xsd:date ;
     skos:definition "network of EOSC Nodes that collectively integrate their resources to provide shared system-level functions, known as Federating Capabilities"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> ;
-    skos:note """The EOSC Federation is a system of systems, built as a\r
-distributed network of services to enable Open Science across disciplinary and national borders."""@en,
+    skos:note "The EOSC Federation is a system of systems, built as a distributed network of services to enable Open Science across disciplinary and national borders."@en,
         "The Federating Capabilities include a common catalogue for resource discovery, a federated user login system (AAI), and coordinated monitoring."@en ;
     skos:prefLabel "EOSC Federation"@en ;
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
@@ -884,8 +883,7 @@ distributed network of services to enable Open Science across disciplinary and n
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/> .
 
 <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Metadata> a skos:Concept ;
-    dc:source """"OSCARS Glossary Task Force 2026, based on several sources, among which \r
-"CODATA RDM Terminology: https://vocabs.ardc.edu.au/repository/api/lda/codata/codata-research-data-management-terminology/current/resource?uri=https://terms.codata.org/rdmt/metadata""" ;
+    dc:source "\"OSCARS Glossary Task Force 2026, based on several sources, among which \"CODATA RDM Terminology: https://vocabs.ardc.edu.au/repository/api/lda/codata/codata-research-data-management-terminology/current/resource?uri=https://terms.codata.org/rdmt/metadata" ;
     dcterms:created "2026-10-15"^^xsd:date ;
     dcterms:modified "2026-10-15"^^xsd:date ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/oscars-eosc/Data> ;
