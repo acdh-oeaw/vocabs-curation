@@ -10143,10 +10143,10 @@
     dc:creator "Helge Wiethoff",
         "Katrin J. Westner",
         "Sabine Klein",
-        "TerraLID Core Team"@en,
-        "TerraLID Editors"@en,
+        "TerraLID Core Team",
+        "TerraLID Editors",
         "Thomas Rose" ;
-    dct:modified "2026-06-13T01:06:16"^^xsd:dateTime ;
+    dct:modified "2026-10-18T22:28:34Z"^^xsd:dateTime ;
     dct:license <https://creativecommons.org/licenses/by/4.0/> ;
     dc:language "English" ;
     dc:description "The TerraLID vocabularies include various vocabularies to ensure coherent data entries for the TerraLID metadata profile, which describes archaeometric data and the materials they are derived from with particular focus on lead isotope data. The vocabularies were compiled by the TerraLID Editors and the TerraLID Core Team and implemented in SKOS by Thomas Rose and Katrin J. Westner. This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825)."@en ;
