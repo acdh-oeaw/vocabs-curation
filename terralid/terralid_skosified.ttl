@@ -10140,15 +10140,18 @@
 
 :conceptScheme_a0559f69 a skos:ConceptScheme ;
     dct:created "2026-05-06T18:34:59"^^xsd:dateTime ;
-    dct:creator "Helge Wiethoff"@en,
-        "Katrin J. Westner"@en,
-        "Sabine Klein"@en,
+    dc:creator "Helge Wiethoff",
+        "Katrin J. Westner",
+        "Sabine Klein",
         "TerraLID Core Team"@en,
         "TerraLID Editors"@en,
-        "Thomas Rose"@en ;
+        "Thomas Rose" ;
     dct:modified "2026-06-13T01:06:16"^^xsd:dateTime ;
-    dct:rights <https://creativecommons.org/licenses/by/4.0/> ;
-    skos:definition "The TerraLID vocabularies include various vocabularies to ensure coherent data entries for the TerraLID metadata profile, which describes archaeometric data and the materials they are derived from with particular focus on lead isotope data. The vocabularies were compiled by the TerraLID Editors and the TerraLID Core Team and implemented in SKOS by Thomas Rose and Katrin J. Westner. This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825)."@en ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dc:language "English" ;
+    dc:description "The TerraLID vocabularies include various vocabularies to ensure coherent data entries for the TerraLID metadata profile, which describes archaeometric data and the materials they are derived from with particular focus on lead isotope data. The vocabularies were compiled by the TerraLID Editors and the TerraLID Core Team and implemented in SKOS by Thomas Rose and Katrin J. Westner. This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825)."@en ;
+    dc:relation <https://metadata.terralid.org/latest/> ;
+    owl:versionInfo "1.0.0" ;
     skos:hasTopConcept :c_062fe0b0,
         :c_0fab0ef9,
         :c_2490c7e3,
@@ -10195,5 +10198,6 @@
         :c_f3916dc0,
         :c_f5cb57a0,
         :c_f8762e3d ;
+    dc:title "TerraLID vocabularies"@en ;
     skos:prefLabel "TerraLID vocabularies"@en .
 
