@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix schema: <https://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://id.loc.gov/vocabulary/marcgt/bib> skos:closeMatch <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/bibliography> .
 
@@ -64,12 +65,14 @@ dcmitype:Service skos:closeMatch <https://vocabs.sshopencloud.eu/vocabularies/ss
 schema:Dataset skos:closeMatch <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset> .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/metadata-schema> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/semantic-resource> ;
     skos:definition "\"Resources for defining and organising metadata elements by specifying their attributes, relationships, and usage rules. They are essential to ensure consistency in describing and managing resources across different systems.\" (Arıkan-Caba, C., Carloni, M., Charvát, V. M., Durco, M., & Felicetti, A. (2024). Overview of Models and Formats in the Field. Zenodo. https://doi.org/10.5281/zenodo.14575783, p. 11)"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> ;
     skos:prefLabel "metadata schema"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/ontology> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/semantic-resource> ;
     skos:definition """"Resources for formalising knowledge within a specific domain by defining concepts, entities, their attributes and their interrelations. They enable a shared understanding across systems, supporting semantic integration and
 interoperability." (Arıkan-Caba, C., Carloni, M., Charvát, V. M., Durco, M., & Felicetti, A. (2024). Overview of Models and Formats in the Field. Zenodo. https://doi.org/10.5281/zenodo.14575783, p.11)"""@en ;
@@ -77,24 +80,28 @@ interoperability." (Arıkan-Caba, C., Carloni, M., Charvát, V. M., Durco, M., &
     skos:prefLabel "ontology"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/software-library> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/software> ;
     skos:definition "\"a collection of programs that are used to develop software\" (https://www.collinsdictionary.com/dictionary/english/software-library)"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> ;
     skos:prefLabel "software library"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/thesaurus> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/semantic-resource> ;
     skos:definition "\"Structured, controlled vocabularies where terms are not only defined but also interconnected through relationships such as synonyms, broader terms (BT), narrower terms (NT), and related terms (RT). Unlike a simple vocabulary, a thesaurus provides a semantic network that enables users to navigate concepts systematically and supports advanced information retrieval by highlighting connections between terms.\" (Arıkan-Caba, C., Carloni, M., Charvát, V. M., Durco, M., & Felicetti, A. (2024). Overview of Models and Formats in the Field. Zenodo. https://doi.org/10.5281/zenodo.14575783, p.11)"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> ;
     skos:prefLabel "thesaurus"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/training-platform> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
     skos:definition "A training platform is a digital software system used to create, deliver, manage, and track educational and professional development programs."@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> ;
     skos:prefLabel "training platform"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/vocabulary> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/semantic-resource> ;
     skos:definition "\"Set of terms or concepts used within a specific domain, often accompanied by definitions or descriptions. They serve as basic resources for consistent communication and understanding in specific domains, without necessarily organising the terms into hierarchical or relational structures.\" ( Arıkan-Caba, C., Carloni, M., Charvát, V. M., Durco, M., & Felicetti, A. (2024). Overview of Models and Formats in the Field. Zenodo. https://doi.org/10.5281/zenodo.14575783, p.11)"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> ;
@@ -174,6 +181,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/application> a skos:Concept ;
     dc:source <https://standards.iso.org/iso/19115/resources/Codelists/gml/MD_ScopeCode.xml> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
     skos:definition "\"information resource hosted on a specific set of hardware and accessible over a network\" (https://standards.iso.org/iso/19115/resources/Codelists/gml/MD_ScopeCode.xml)"@en ;
     skos:exactMatch <https://standards.iso.org/iso/19115/resources/Codelists/gml/MD_ScopeCode.xml> ;
@@ -182,6 +190,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/article> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/art> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:definition "\"Composition prepared for publication as an independent portion of a magazine, newspaper, encyclopedia, or other work.\" (http://id.loc.gov/vocabulary/marcgt/art)"@en ;
     skos:exactMatch <http://id.loc.gov/vocabulary/marcgt/art> ;
@@ -190,6 +199,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/bibliographic-data> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/bda> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset> ;
     skos:definition "\"Data with bibliographic citations, including data from library catalogs or citation databases in a structured or unstructured form.\" (http://id.loc.gov/vocabulary/marcgt/bda)"@en ;
     skos:exactMatch <http://id.loc.gov/vocabulary/marcgt/bda> ;
@@ -198,6 +208,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/blog-post> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_6947> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:definition "\"A piece of writing or other item of content published on a blog. [Source: https://www.lexico.com/definition/blog_post]\" (http://purl.org/coar/resource_type/c_6947)"@en ;
     skos:exactMatch <http://purl.org/coar/resource_type/c_6947> ;
@@ -206,6 +217,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/book-chapter> a skos:Concept ;
     dc:source <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#bookchapter> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:definition "\"One of the main divisions of a book.\" (https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#bookchapter)"@en ;
     skos:exactMatch <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#bookchapter> ;
@@ -214,6 +226,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/book-part> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_3248> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:definition "\"A defined chapter or section of a book, usually with a separate title or number. [Source: http://purl.org/spar/fabio/BookChapter]\" (http://purl.org/coar/resource_type/c_3248)"@en ;
     skos:exactMatch <http://purl.org/coar/resource_type/c_3248> ;
@@ -222,6 +235,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/catalog> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/cat> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
     skos:definition "\"List of items in a collection.\" (http://id.loc.gov/vocabulary/marcgt/cat)"@en ;
     skos:exactMatch <http://id.loc.gov/vocabulary/marcgt/cat> ;
@@ -230,6 +244,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/conference-output> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_c94f> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:definition "\"All kind of digital resources contributed to a conference, like conference presentation (slides), conference report, conference lecture, abstracts, demonstrations. For conference papers, posters or proceedings the specific sub-concepts should be used. [COAR definition]\" (http://purl.org/coar/resource_type/c_c94f)"@en ;
     skos:exactMatch <http://purl.org/coar/resource_type/c_c94f> ;
@@ -238,6 +253,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dictionary> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/dic> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset> ;
     skos:definition "\"a reference source in print or electronic form containing words usually alphabetically arranged along with information about their forms, pronunciations, functions, etymologies, meanings, and syntactic and idiomatic uses\" (https://www.merriam-webster.com/dictionary/dictionary)"@en ;
     skos:exactMatch <http://id.loc.gov/vocabulary/marcgt/dic> ;
@@ -246,6 +262,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/musical-notation> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_18cw> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset> ;
     skos:definition "\"Symbols used to write music, as in a music score, and to express mathematical concepts. [Source: Adapted from https://products.abc-clio.com/ODLIS/odlis_n.aspx]\" (http://purl.org/coar/resource_type/c_18cw)"@en ;
     skos:exactMatch <http://purl.org/coar/resource_type/c_18cw> ;
@@ -254,6 +271,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/newspaper-article> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_998f> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset> ;
     skos:definition "\"Work consisting of a news item appearing in a general-interest newspaper or other general news periodical, containing information of current and timely interest in a field. (Adapted from http://www.reference.md/files/D018/mD018431.html)\" (http://purl.org/coar/resource_type/c_998f)"@en ;
     skos:exactMatch <http://purl.org/coar/resource_type/c_998f> ;
@@ -262,6 +280,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/research-protocol> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/YZ1N-ZFT9> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/workflow> ;
     skos:definition "\"The protocol is a detailed plan of the research study including a project summary, project description covering the rationale, objectives, methodology, data management and analysis, ethical considerations, gender issues and references. [Source: Adapted from https://www.who.int/publications/i/item/a-practical-guide-for-health-researchers]\" (http://purl.org/coar/resource_type/YZ1N-ZFT9)"@en ;
     skos:exactMatch <http://purl.org/coar/resource_type/YZ1N-ZFT9> ;
@@ -270,6 +289,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/schema> a skos:Concept ;
     dc:source <https://ontome.net/class/1140/namespace/216> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/semantic-resource> ;
     skos:definition "\"This class is used to document instances of data structures, including formal ontologies that are used to configure the behavior of software.\" (https://cidoc-crm.org/sites/default/files/Parthenos%20Entities%20Model%20Description%20v%203.1.pdf )"@en ;
     skos:exactMatch <https://ontome.net/class/1140/namespace/216> ;
@@ -278,6 +298,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/source-code> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/QH80-2R4E> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/software> ;
     skos:definition "\"Source code is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text. [Source: https://en.wikipedia.org/wiki/Source_code]\" (http://purl.org/coar/resource_type/QH80-2R4E)"@en ;
     skos:exactMatch <http://purl.org/coar/resource_type/QH80-2R4E> ;
@@ -286,6 +307,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/technical-documentation> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_71bd> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:definition "\"Technical documentation refers to any type of documentation that describes handling, functionality and architecture of a technical product or a product under development or use. [Source: https://en.wikipedia.org/wiki/Technical_documentation]\" (http://purl.org/coar/resource_type/c_71bd)"@en ;
     skos:exactMatch <http://purl.org/coar/resource_type/c_71bd> ;
@@ -293,6 +315,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
     skos:prefLabel "technical documentation"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/training-material> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:definition "\"Tutorials, lessons or didactic resources explaining how to perform an action or highlighting the potential learning outcomes gained from using that material.\" (https://marketplace.sshopencloud.eu/about/data-population#training-materials)"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> ;
     skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/computational-notebook> ;
@@ -301,6 +324,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/bibliography> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_86bc> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:closeMatch <http://id.loc.gov/vocabulary/marcgt/bib> ;
     skos:definition "\"A list of the books and articles that have been used by someone when writing a particular book or article [Source: https://dictionary.cambridge.org/dictionary/english/bibliography]\" (http://purl.org/coar/resource_type/c_86bc)"@en ;
@@ -310,6 +334,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/data-management-plan> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_ab20> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:closeMatch <https://vocabularies.coar-repositories.org/resource_types/c_ab20/> ;
     skos:definition "\"A formal statement describing how research data will be managed and documented throughout a research project and the terms regarding the subsequent deposit of the data with a data repository for long-term management and preservation. [Source: https://casrai.org/rdm-glossary]\" (http://purl.org/coar/resource_type/c_ab20)"@en ;
@@ -319,6 +344,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/database> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/dtb> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
     skos:definition "\"Collection of logically interrelated data stored together in files created and managed by a database management system.\" (http://id.loc.gov/vocabulary/marcgt/dtb)"@en ;
@@ -328,6 +354,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/directory> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/dir> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
     skos:definition "\"Directory or register of persons or corporate bodies.\" (http://id.loc.gov/vocabulary/marcgt/dir)"@en ;
@@ -337,6 +364,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/encyclopedia> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/enc> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
     skos:definition "\"Resource containing informational articles on subjects in every field of knowledge, or one that is limited to a special field or subject.\" (http://id.loc.gov/vocabulary/marcgt/enc)"@en ;
@@ -345,6 +373,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
     skos:prefLabel "encyclopedia"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/gazetteer> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/semantic-resource>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
@@ -354,6 +383,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/knowledge-organization-system> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/GSZA-Y7V7> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
     skos:definition "\"All types of schemes for organizing information and promoting knowledge management. Knowledge organization systems include classification schemes that organize materials at a general level (such as books on a shelf), subject headings that provide more detailed access, and authority files that control variant versions of key information (such as geographic names and personal names). They also include less-traditional schemes, such as semantic artifacts, semantic networks and ontologies. https://www.clir.org/pubs/reports/pub91/1knowledge/\" (http://purl.org/coar/resource_type/GSZA-Y7V7)"@en ;
@@ -363,6 +393,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/newspaper> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/new> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset> ;
     skos:closeMatch <http://purl.org/coar/resource_type/c_2fe3> ;
     skos:definition "\"Resource that designed to be a primary source of information on current events.\" (http://id.loc.gov/vocabulary/marcgt/new)"@en ;
@@ -371,6 +402,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
     skos:prefLabel "newspaper"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/repository> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
     skos:closeMatch <https://api.openaire.eu/vocabularies/dnet:datasource_typologies/orprepository>,
         <https://standards.iso.org/iso/19115/resources/Codelists/gml/MD_ScopeCode.xml> ;
@@ -379,6 +411,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
     skos:prefLabel "repository"@en .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/research-publication> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:closeMatch <http://purl.org/coar/resource_type/c_2df8fbb1>,
         <http://purl.org/coar/resource_type/c_6501> ;
@@ -388,6 +421,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/website> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_7ad9> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
     skos:closeMatch <http://id.loc.gov/vocabulary/marcgt/web> ;
     skos:definition "\"A collection of related web pages containing text, images, videos and/or other digital assets that are addressed relative to a common Uniform Resource Locator (URL). A web site is hosted on at least one web server, accessible via a network such as the Internet or a private local area network. [Source: http://purl.org/spar/fabio/WebSite]\" (http://purl.org/coar/resource_type/c_7ad9)"@en ;
@@ -397,6 +431,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/book> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/boo> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:closeMatch <http://purl.org/coar/resource_type/c_2f33>,
         <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#book> ;
@@ -407,6 +442,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/computational-notebook> a skos:Concept ;
     dc:source <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#computationalnotebook> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/software>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/training-material>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/workflow> ;
@@ -417,6 +453,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/interactive-resource> a skos:Concept ;
     dc:source dcmitype:InteractiveResource ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> ;
     skos:closeMatch <http://purl.org/coar/resource_type/c_e9a0>,
         <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#interactiveresource> ;
@@ -427,6 +464,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/journal> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/jou> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:closeMatch <http://purl.org/coar/resource_type/c_0640>,
         <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#journal> ;
@@ -437,6 +475,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/manuscript> a skos:Concept ;
     dc:source <http://id.loc.gov/vocabulary/marcgt/man> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:closeMatch <http://purl.org/coar/resource_type/c_0040> ;
@@ -447,6 +486,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/map> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_12cd> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:closeMatch <http://id.loc.gov/vocabulary/marcgt/map> ;
@@ -457,6 +497,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/report> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_93fc> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> ;
     skos:closeMatch <http://purl.org/coar/resource_type/c_18op>,
         <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#report> ;
@@ -467,6 +508,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/collection> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/RMP5-3GQ6> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset> ;
     skos:closeMatch dcmitype:Collection,
         <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#collection>,
@@ -478,6 +520,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/model> a skos:Concept ;
     dc:source <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#model> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/semantic-resource> ;
     skos:closeMatch <http://semanticscience.org/resource/SIO_000510>,
         <https://id.loc.gov/vocabulary/marcgt/mod.html>,
@@ -489,6 +532,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/workflow> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_393c> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:closeMatch <http://purl.obolibrary.org/obo/NCIT_C42753>,
         <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#workflow> ;
     skos:definition "\"A recorded sequence of connected steps, which may be automated, specifying a reliably repeatable sequence of operations to be undertaken when conducting a particular job, for example an in silico investigation that extracts and processes information from a number of bioinformatics databases. [Source: Adapted from https://sparontologies.github.io/fabio/current/fabio.html#d4e6123]\" (http://purl.org/coar/resource_type/c_393c)"@en ;
@@ -508,6 +552,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
     skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/application> .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/semantic-resource> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:definition "\"machine-actionable formalisation (represented using appropriate formats and serialisations, including RDF and non-RDF standards) of a conceptualisation, enabling sharing and reuse by humans and machines.\" (Corcho, O., Ekaputra, F.J., Heibi, I. et al. A maturity model for catalogues of semantic artefacts. Sci Data 11, 479 (2024). https://doi.org/10.1038/s41597-024-03185-4, p.2)"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> ;
     skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/gazetteer>,
@@ -522,6 +567,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/software> a skos:Concept ;
     dc:source dcmitype:Software ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:closeMatch <http://purl.org/coar/resource_type/c_5ce6>,
         <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#software>,
         <https://standards.iso.org/iso/19115/resources/Codelists/gml/MD_ScopeCode.xml> ;
@@ -535,6 +581,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/publication> a skos:Concept ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:definition "\"the act of making information or stories available to people in a printed or electronic form\" (https://dictionary.cambridge.org/de/worterbuch/englisch/publication)"@en ;
     skos:inScheme <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> ;
     skos:narrower <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/article>,
@@ -556,6 +603,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/service> a skos:Concept ;
     dc:source <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#service> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:closeMatch dcmitype:Service,
         <https://ontome.net/class/1108/namespace/216#summary>,
         <https://standards.iso.org/iso/19115/resources/Codelists/gml/MD_ScopeCode.xml> ;
@@ -578,6 +626,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset> a skos:Concept ;
     dc:source <http://purl.org/coar/resource_type/c_ddb1> ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     skos:closeMatch dcmitype:Dataset,
         <https://datacite-metadata-schema.readthedocs.io/en/4.6/appendices/appendix-1/resourceTypeGeneral/#dataset>,
         schema:Dataset,
@@ -602,12 +651,7 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
     skos:topConceptOf <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> .
 
 <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> a skos:ConceptScheme ;
-    dc:contributor "Klaus Illmayer",
-        "Laure Barbot",
-        "Massimiliano Carloni",
-        "Matej Ďurčo",
-        "Michael Kurzmeier",
-        "Vera Maria Charvát" ;
+    dc:contributor "Klaus Illmayer" ;
     dc:coverage "2019-"@en ;
     dc:creator "Laure Barbot",
         "Massimiliano Carloni",
@@ -627,8 +671,9 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
         "research software and services"@en,
         "resource classification"@en,
         "social sciences and humanities"@en ;
-    dc:title "SSHOMP Resource Type"@en ;
+    dc:title "SSH Open Marketplace Resource Type"@en ;
     dct:license "https://creativecommons.org/publicdomain/zero/1.0/" ;
+    dct:modified "2026-10-19T10:59:10+00:00"^^xsd:dateTime ;
     dct:rightsHolder "DARIAH-EU" ;
     owl:versionInfo "1.0.0" ;
     skos:hasTopConcept <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/dataset>,
@@ -638,5 +683,5 @@ dcmitype:Software skos:exactMatch <https://vocabs.sshopencloud.eu/vocabularies/s
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/software>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/training-material>,
         <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/workflow> ;
-    skos:prefLabel "SSHOMP Resource Type"@en .
+    skos:prefLabel "SSH Open Marketplace Resource Type"@en .
 
