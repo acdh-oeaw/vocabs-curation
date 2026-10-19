@@ -1,3 +1,4 @@
+@prefix : <https://vocabs.sshopencloud.eu/vocabularies/sshomp-resource-type/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcmitype: <http://purl.org/dc/dcmitype/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
